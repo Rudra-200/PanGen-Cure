@@ -40,10 +40,10 @@ This project integrates **Large Language Models(LLMs), multi-modal AI, and Gener
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 🗒️References
- 1.[CT Scans Data](http://medicaldecathlon.com/)
- 2.[IBM Granite 3.2](https://huggingface.co/ibm-granite)
- 3.[BioGPT](https://huggingface.co/microsoft/biogpt)
- 4.[Urinary Marker Model](https://www.kaggle.com/code/gkitchen/predicting-pancreatic-cancer/input)
+ 1.[CT Scans Data](http://medicaldecathlon.com/).
+ 2.[IBM Granite 3.2](https://huggingface.co/ibm-granite).
+ 3.[BioGPT](https://huggingface.co/microsoft/biogpt).
+ 4.[Urinary Marker Model](https://www.kaggle.com/code/gkitchen/predicting-pancreatic-cancer/input).
 
 ## 📜 License
 This project is licensed under the **GNU 3.0**.
