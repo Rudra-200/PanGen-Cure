@@ -1,6 +1,4 @@
-# Generative AI for Pancreatic Cancer Detection
-
-## ⚕️PanGen Cure 
+# ⚕️PanGen Cure: Generative AI for Pancreatic Cancer Detection & Automated Report Generation.
 
 ## 🚀 Overview
 This project integrates **Large Language Models(LLMs), multi-modal AI, and Generative AI (GenAI)** to enhance **pancreatic cancer detection** by analyzing **CT scan images and Urinary biomarker data of Patient**. The system employs **A RAG-based LLM (IBM Granite 3.2 or BioGPT)** for generating **detailed diagnostic reports** and provides **real-time surgical guidance** to improve clinical decision-making.
@@ -41,11 +39,18 @@ This project integrates **Large Language Models(LLMs), multi-modal AI, and Gener
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+## 🗒️References
+ 1.[CT Scans Data](http://medicaldecathlon.com/)
+ 2.[IBM Granite 3.2](https://huggingface.co/ibm-granite)
+ 3.[BioGPT](https://huggingface.co/microsoft/biogpt)
+ 4.[Urinary Marker Model](https://www.kaggle.com/code/gkitchen/predicting-pancreatic-cancer/input)
+
 ## 📜 License
 This project is licensed under the **GNU 3.0**.
 
 ## 📬 Contact
-For queries, reach out via **mishrarudra.work@gmail.com** or **LinkedIn**: [Your Profile](https://linkedin.com/in/rudra-mishra)
+For queries, reach out via **mishrarudra.work@gmail.com** or **LinkedIn**: [Rudra Prasanna Mishra](https://linkedin.com/in/rudra-mishra)
+
 
 ---
-💡 *Advancing cancer diagnostics with AI and GIS for a healthier future!*
+💡 *Advancing cancer diagnostics with AI and reporting with GenAI for a healthier future!*
